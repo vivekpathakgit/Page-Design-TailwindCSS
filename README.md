@@ -12,6 +12,13 @@
 ![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/22c2295a-eca0-4a95-91a7-d4cdd1d61a1c)
 ![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/1201585b-0773-4db0-9b9a-9660c3a5e132)
 
+### Add on feature (Mobile View) : 
+
+Nav bar is customised to list
+
+![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/1117ca9b-96ec-4c5c-9688-98b82bd71072)
+
+
 
 
 
