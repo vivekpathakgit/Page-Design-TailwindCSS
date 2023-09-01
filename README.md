@@ -8,9 +8,12 @@
 
 ### Mobile View
 
-![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/cf7e09a1-bc73-4e2d-8950-8f271eb09418)
-![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/c39438f0-d02f-45fc-93cb-7356861dcc2d)
-![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/0460c6eb-df0e-44cc-8361-510eeb26565f)
+![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/b08599ab-3962-4ecc-bb4d-bdd24e395603)
+![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/22c2295a-eca0-4a95-91a7-d4cdd1d61a1c)
+![image](https://github.com/vivekpathakgit/Page-Design-TailwindCSS/assets/93838914/1201585b-0773-4db0-9b9a-9660c3a5e132)
+
+
+
 
 
 
